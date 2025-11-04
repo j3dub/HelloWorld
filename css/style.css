@@ -1,1 +1,6 @@
 /* styles */
+
+body {background-color: lightgray;}
+            h1 {color: white; text-align: center;}
+            .main {color: red;}
+            #main {font-size: 30px;}
