@@ -1,2 +1,2 @@
-# ReactHelloWorld
-react hello world
+# HelloWorld
+hello world
